@@ -1,4 +1,4 @@
-**Hello World! Welcome to the master class of becoming a technical founder.**
+## Hello World! Welcome to the master class of becoming a technical founder.
 
 On this README page, I summarize everything I think it's the most important to learn to become a technical founder. I also link the notes I have directly to the contents. To achieve efficiency of learning everything you need, there are 3 key areas I believe every technical founders should spend most of time focus on:
 
