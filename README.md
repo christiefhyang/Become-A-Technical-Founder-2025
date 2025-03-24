@@ -56,6 +56,13 @@ Languages: HTML, CSS, Java, JavaScript, Next.js, C, C#, C++, Python, R, MATLAB, 
 8) Materials
 9) Aerospace
 
+**OPTIONAL: SOFT SKILLS**
+As much as I believe soft skills are important in real life scenarios, I think you should spend most of time focusing on the above hardcore skill sets. Therefore, this content has been tagged as optional.
+
+1) Languages (in order of significance): English, Chinese, Arabic
+
+
+
 
 
 
