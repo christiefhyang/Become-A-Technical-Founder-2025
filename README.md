@@ -9,6 +9,52 @@ In a nutshell, there are 3 key areas I believe every technical founders should l
 I am going to break them down here on this READ.ME page, as it will give you a good structure of the contents. I will link each lesson you can quickly navigate to the relative session. This is a class designed for anyone at any stage. And the content that it covers I believe are the bedrock of modern day technical founders.
 
 **FINANCE**
+1) Accounting
+2) Finance
+3) Investment Banking Essentials
+4) Market Product & Derivatives (FICC)
+5) Trading Strategy & Hedge Fund
+6) Real Assets (Infra, Real Estate)
+7) Private Equity & VC
+8) Economics & Global Relations
+9) Product & Strategy
+10) Human Resources
+11) Portfolio Construction
+12) Industry Knowledge
+13) Digital Assets
+14) Tax
+15) Private Credit
+16) Marketing & Strategy
+
+**Software**
+1) Web Development (Front + Back)
+2) Full Stack Development
+3) Mobile Development
+4) General Purpose Languages
+5) Data Structure & Algorithm
+6) Data Science & Analytics
+7) Scientific & Numerical Computing
+8) Artificial Intelligence & ML
+9) System Design
+10) Cybersecurity
+11) DevOps
+12) Game Development
+13) Database Management
+14) Embedded System
+15) Signals & Controls
+
+
+**Hardware**
+1) 3D CAD Design
+2) 3D Printing
+3) Prototyping & testing
+4) Manufacturing
+5) Mechanical Systems
+6) Robotics
+7) Electrical Engineering
+8) Materials
+9) Aerospace
+
 
 
 
