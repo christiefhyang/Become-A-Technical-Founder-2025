@@ -26,11 +26,11 @@ I am going to break them down here on this README page, as it will give you a go
 15) Private Credit
 16) Marketing & Strategy
 
-**Software**
+**SOFTWARE**
 1) Web Development (Front + Back)
 2) Full Stack Development
 3) Mobile Development
-4) General Purpose Languages
+4) General Purpose Languages 
 5) Data Structure & Algorithm
 6) Data Science & Analytics
 7) Scientific & Numerical Computing
@@ -43,7 +43,9 @@ I am going to break them down here on this README page, as it will give you a go
 14) Embedded System
 15) Signals & Controls
 
-**Hardware**
+Languages: HTML, CSS, Java, JavaScript, Next.js, C, C#, C++, Python, R, MATLAB, Julia
+
+**HARDWARE**
 1) 3D CAD Design
 2) 3D Printing
 3) Prototyping & testing
