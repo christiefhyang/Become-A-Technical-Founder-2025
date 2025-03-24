@@ -1,6 +1,6 @@
 **Hello World! Welcome to the master class of becoming a technical founder.**
 
-On this README page, I summarize everything I think it's the most important to learn to become a technical founder. I also link the notes I have to directly to the contents. To achieve efficiency of learning everything you need, there are 3 key areas I believe every technical founders should focus on:
+On this README page, I summarize everything I think it's the most important to learn to become a technical founder. I also link the notes I have directly to the contents. To achieve efficiency of learning everything you need, there are 3 key areas I believe every technical founders should spend most of time focus on:
 
 **1) FINANCE**
 **2) SOFTWARE**
@@ -42,7 +42,6 @@ I am going to break them down here on this README page, as it will give you a go
 13) Database Management
 14) Embedded System
 15) Signals & Controls
-
 
 **Hardware**
 1) 3D CAD Design
