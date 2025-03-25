@@ -18,7 +18,7 @@ To build on this foundation, I recommend seeking out hands-on projects—especia
 3) [Investment Banking Essentials](https://oil-mink-141.notion.site/Investment-Banking-Essentials-177b5269fa23805192f5f93466996b4c)
 4) Market Product & Derivatives (FICC)
 5) Trading Strategy & Hedge Fund
-6) Real Assets ([Infrastructure](https://oil-mink-141.notion.site/Infrastructure-1b1b5269fa238043a2dedcda0e0bac9d?pvs=4), [Real Estate)](https://oil-mink-141.notion.site/Real-Estate-1c1b5269fa2380688481f06c833e60ae?pvs=730)
+6) Real Assets ([Infrastructure](https://oil-mink-141.notion.site/Infrastructure-1b1b5269fa238043a2dedcda0e0bac9d?pvs=4), [Real Estate](https://oil-mink-141.notion.site/Real-Estate-1c1b5269fa2380688481f06c833e60ae?pvs=730))
 7) Private Equity & Venture Capital 
 8) Economics & Global Relations
 9) Product & Strategy
