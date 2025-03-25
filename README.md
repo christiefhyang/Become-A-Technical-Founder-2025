@@ -31,6 +31,7 @@ To build on this foundation, I recommend seeking out hands-on projects—especia
 16) [Excel, Modeling, VBA](https://oil-mink-141.notion.site/Excel-Modeling-VBA-1a3b5269fa23801eb497e8415b97b2d7?pvs=73)
 
   ***Add-on Knowledges***
+  
 • [Apollo Academy Alternative Investing 2.0](https://oil-mink-141.notion.site/Apollo-Academy-17db5269fa238009acd9e8d1fd70d1d6?pvs=4)
 • [Akuna Capital Options 101](https://oil-mink-141.notion.site/Akuna-Options-101-178b5269fa2380a2b0cfead306e262ee?pvs=4)
 
