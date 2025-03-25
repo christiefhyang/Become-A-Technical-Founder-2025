@@ -1,4 +1,4 @@
-## Hello World! Welcome to the 2025 master class of becoming a technical founder.
+## Hello World! Welcome to the 2025 master class of becoming a TECHNICAL FOUNDER.
 
 On this README page, I summarize everything I think it's the most important to learn to become a technical founder in 2025 and onward. I also link the notes I have directly to the contents. To achieve efficiency of learning everything you need, there are 3 key areas I believe every technical founders should spend most of time focus on:
 
