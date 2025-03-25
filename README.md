@@ -6,16 +6,18 @@ On this README page, I summarize everything I think it's the most important to l
 **2) SOFTWARE**
 **3) HARDWARE**
 
-I am going to break them down here on this README page, as it will give you a good structure of the content and you can prioritize schedules on your own. I will link each lesson you can quickly navigate to the relative session. This is a class designed for anyone at any stage. And the content that it covers I believe are the bedrock of modern day technical founders.
+The design of this course is to help you accelerate your learning path by optimizing your efficiency on what contents to learn. I am going to break the 3 key areas down here on this README page, as it will give you a good structure of the content and you can prioritize schedules on your own. I will link each lesson you can quickly navigate to the relative session. This is a class designed for anyone at any stage. And the content that it covers I believe are the bedrock of modern day technical founders.
+
+As a gentle reminder: this README page is really short as I want to give you a clear and simple snapshot of what you will learn in my modules, but every single content takes at least weeks to learn the basics and fundamentals. Some modules take from months to years to be able to become proficient. Typically, if you take those modules as relevant classes at college, the average time to finish all of them as per my calculations are about 5 years minimum. There are some tools that you can leverage which will help you accelerate the timeframe. But please understand that after these learnings you will still only know the very basic of each field. However, after this training, I believe it is enough for anyone to kickstart a "career" in technology entrepreneurship as you have the breadth of knowledges needed to start as the training covers a bit of everything. It will be helpful if you can find yourself some projects to work on, especially for hardware like manufacturing. Many colleges have project teams and facilities you will need to get hands on experiences, which are veyr beneficial for your personal learnings. Try to leverage them, as much as possible. As you progress along your tech startup journey in the future, you will expand your "breadth" of knowledge to "depth" in specific fields, depending on the product and industry you are going into. 
 
 **FINANCE**
 1) Accounting
 2) Finance
-[3) Investment Banking Essentials](https://oil-mink-141.notion.site/Investment-Banking-Essentials-177b5269fa23805192f5f93466996b4c)
+3) [Investment Banking Essentials](https://oil-mink-141.notion.site/Investment-Banking-Essentials-177b5269fa23805192f5f93466996b4c)
 4) Market Product & Derivatives (FICC)
 5) Trading Strategy & Hedge Fund
-6) Real Assets ([Infrastructure](https://oil-mink-141.notion.site/Infrastructure-1b1b5269fa238043a2dedcda0e0bac9d?pvs=4), Real Estate)
-7) Private Equity & Venture Capital
+6) Real Assets ([Infrastructure](https://oil-mink-141.notion.site/Infrastructure-1b1b5269fa238043a2dedcda0e0bac9d?pvs=4), [Real Estate](https://oil-mink-141.notion.site/Real-Estate-1c1b5269fa2380688481f06c833e60ae?pvs=730)
+7) Private Equity & Venture Capital 
 8) Economics & Global Relations
 9) Product & Strategy
 10) Human Resources
@@ -25,6 +27,7 @@ I am going to break them down here on this README page, as it will give you a go
 14) Tax
 15) Private Credit
 16) Marketing & Strategy
+17) Excel, Modeling, VBA
 
 **SOFTWARE**
 1) Web Development (Front + Back)
