@@ -14,8 +14,8 @@ I am going to break them down here on this README page, as it will give you a go
 3) Investment Banking Essentials
 4) Market Product & Derivatives (FICC)
 5) Trading Strategy & Hedge Fund
-6) Real Assets (Infra, Real Estate)
-7) Private Equity & VC
+6) Real Assets (Infrastructure, Real Estate)
+7) Private Equity & Venture Capital
 8) Economics & Global Relations
 9) Product & Strategy
 10) Human Resources
@@ -60,6 +60,8 @@ Languages: HTML, CSS, Java, JavaScript, Next.js, C, C#, C++, Python, R, MATLAB, 
 As much as I believe soft skills are important in real life scenarios, I think you should spend most of time focusing on the above hardcore skill sets. Therefore, this content has been tagged as optional.
 
 1) Languages (in order of significance): English, Chinese, Arabic
+2) Pitching & Selling
+3) Presentation - pptx
 
 
 
