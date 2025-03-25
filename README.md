@@ -1,14 +1,18 @@
 ## Hello World! Welcome to the 2025 master class of becoming a TECHNICAL FOUNDER.
 
-On this README page, I summarize everything I think it's the most important to learn to become a technical founder in 2025 and onward. I also link my personal notes from related areas directly to the modules. To achieve efficiency of learning everything you need, there are 3 key areas I believe every technical founders should spend most of time focus on:
+Here's a rephrased version of your text:
 
-**1) FINANCE**
-**2) SOFTWARE**
-**3) HARDWARE**
+This README page provides a concise overview of the essential knowledge I believe aspiring technical founders should master for success in 2025 and beyond. I've included links to my personal notes, integrated directly into the relevant modules. To streamline your learning journey, I’ve identified three critical areas where technical founders should focus their efforts:
 
-The design of this course is to help you accelerate your learning path by optimizing your efficiency on what contents to learn. I am going to break the 3 key areas down here on this README page, as it will give you a good structure of the content and you can prioritize schedules on your own. I will link each lesson you can quickly navigate to the relative session. This is a class designed for anyone at any stage. And the content that it covers I believe are the bedrock of modern day technical founders.
+**1) Finance**
+**2) Software**
+**3) Hardware**
 
-As a gentle reminder: this README page is really short as I want to give you a clear and simple snapshot of what you will learn in my modules, but every single content takes at least weeks to learn the basics and fundamentals. Some modules take from months to years to be able to become proficient. Typically, if you take those modules as relevant classes at college, the average time to finish all of them as per my calculations are about 5 years minimum. There are some tools that you can leverage which will help you accelerate the timeframe. But please understand that after these learnings you will still only know the very basic of each field. However, after this training, I believe it is enough for anyone to kickstart a "career" in technology entrepreneurship as you have the breadth of knowledges needed to start as the training covers a bit of everything. It will be helpful if you can find yourself some projects to work on, especially for hardware like manufacturing. Many colleges have project teams and facilities you will need to get hands on experiences, which are veyr beneficial for your personal learnings. Try to leverage them, as much as possible. As you progress along your tech startup journey in the future, you will expand your "breadth" of knowledge to "depth" in specific fields, depending on the product and industry you are going into. 
+The course is structured to maximize your learning efficiency by curating the most impactful content. Here on this README page, I’ll break down these three key areas, offering a clear roadmap of the material so you can plan your study schedule. Each lesson links directly to its corresponding section for easy navigation. This course is designed for learners at any level, and I consider the topics it covers to be foundational for today’s technical founders.
+
+A quick note: While this README is brief—intentionally providing a simple, digestible snapshot of the modules—mastering the basics of each topic takes weeks of effort, and achieving proficiency in some areas could take months to years. If you were to pursue these subjects as college courses, I estimate it would take at least five years to complete them all. Certain tools can help accelerate this timeline, but even after finishing, you’ll only have a foundational grasp of each field. That said, I believe this training equips you with the broad knowledge needed to launch a career in tech entrepreneurship. It touches on a little bit of everything to get you started.
+
+To build on this foundation, I recommend seeking out hands-on projects—especially in hardware, like manufacturing. Many colleges offer project teams and facilities that provide invaluable practical experience; take full advantage of these opportunities. As you advance in your tech startup journey, you’ll naturally deepen your expertise in specific areas, depending on your chosen product and industry.
 
 **FINANCE**
 1) Accounting
