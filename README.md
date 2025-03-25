@@ -22,7 +22,7 @@ As a gentle reminder: this README page is really short as I want to give you a c
 9) Product & Strategy
 10) Human Resources
 11) Portfolio Construction
-12) Industry Knowledge
+12) Industry Knowledge - Click [here](https://chatgpt.com/g/g-67d7450622a48191946660169e496266-industry-research) to acccess my GPT research configuration 
 13) Digital Assets
 14) Tax
 15) Private Credit
