@@ -9,7 +9,7 @@ On this README page, I summarize everything I think it's the most important to l
 I am going to break them down here on this README page, as it will give you a good structure of the content and you can prioritize schedules on your own. I will link each lesson you can quickly navigate to the relative session. This is a class designed for anyone at any stage. And the content that it covers I believe are the bedrock of modern day technical founders.
 
 **FINANCE**
-1) Accounting
+[1) Accounting](https://oil-mink-141.notion.site/Investment-Banking-Essentials-177b5269fa23805192f5f93466996b4c)
 2) Finance
 3) Investment Banking Essentials
 4) Market Product & Derivatives (FICC)
