@@ -13,8 +13,8 @@ A quick note: While this README is brief—intentionally providing a simple, dig
 To build on this foundation, I recommend seeking out hands-on projects—especially in hardware, like manufacturing. Many colleges offer project teams and facilities that provide invaluable practical experience; take full advantage of these opportunities. As you advance in your tech startup journey, you’ll naturally deepen your expertise in specific areas, depending on your chosen product and industry.
 
 **FINANCE**
-1) Accounting
-2) Finance
+1) [Accounting](https://oil-mink-141.notion.site/Accounting-1c3b5269fa23805baac8de19be2b2ae9?pvs=73)
+2) [Finance](https://oil-mink-141.notion.site/Finance-1c3b5269fa238049ae4cd979e16b610a)
 3) [Investment Banking Essentials](https://oil-mink-141.notion.site/Investment-Banking-Essentials-177b5269fa23805192f5f93466996b4c)
 4) Market Product & Derivatives (FICC)
 5) Trading Strategy & Hedge Fund
