@@ -1,4 +1,4 @@
-## Hello World! Welcome to the 2025 master class of becoming a TECHNICAL FOUNDER. 
+## Hello World! Welcome to the 2025 master guide of becoming a TECHNICAL FOUNDER. 
 
 This README page provides a concise overview of the essential knowledge I believe aspiring technical founders should master for success in 2025 and beyond. I've integrated my personal notes directly into the relevant modules. An ideal technical entrepreneur is capable of growing the company financially and operationally. Cutting-edge software and hardware knowledges help founders make better products and find its market fits. While financial knowledges help company make better decisions on mergers and acquisitions in order to either vertically or horizontally integrate resources. Understanding the capital markets also help founders make better financing and capital allocation decisions. 
 
