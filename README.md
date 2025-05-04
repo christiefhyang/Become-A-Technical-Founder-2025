@@ -55,7 +55,7 @@ Before you start, it is crtiical to understand that the notes are on my own.
 15) Signals & Controls
 16) PCB Design
 
-Languages: HTML, CSS, JavaScript, java, Next.js, C, C#, [C++](https://oil-mink-141.notion.site/C-163b5269fa2380819db5e320648cbf0a?pvs=4), Python, R, [MATLAB](https://oil-mink-141.notion.site/C-163b5269fa2380819db5e320648cbf0a?pvs=4), Julia
+Languages: HTML, CSS, JavaScript, Java, C, C#, [C++](https://oil-mink-141.notion.site/C-163b5269fa2380819db5e320648cbf0a?pvs=4), Python, R, [MATLAB](https://oil-mink-141.notion.site/C-163b5269fa2380819db5e320648cbf0a?pvs=4), Julia, Go
 
 **HARDWARE**
 1) 3D CAD Design & Printing
