@@ -74,6 +74,7 @@ As much as I believe soft skills are important in real life scenarios, I think y
 2) Pitching & Selling
 3) Teamwork & Communication
 
+Best of luck to you all!
 
 
 
